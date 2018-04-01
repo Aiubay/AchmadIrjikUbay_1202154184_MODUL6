@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "141262168222",
+    "firebase_url": "https://achmadirjikubay1202154184modul.firebaseio.com",
+    "project_id": "achmadirjikubay1202154184modul",
+    "storage_bucket": "achmadirjikubay1202154184modul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141262168222:android:763668e9cb25b26d",
+        "android_client_info": {
+          "package_name": "com.example.android.achmadirjikubay_1202154184_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141262168222-6te3gqakqd2rv5n4p75fa6c1ko2f79ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.achmadirjikubay_1202154184_modul6",
+            "certificate_hash": "93cefb690224a618b15fdbb302e4b7d67fd8fdc4"
+          }
+        },
+        {
+          "client_id": "141262168222-trov5vmgcrr7osjjklq82jhch71euc5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMZz3TQmKyYrHavNEPTLDtVWkpXPA7iY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141262168222-trov5vmgcrr7osjjklq82jhch71euc5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141262168222:android:e4a433ba5759486f",
+        "android_client_info": {
+          "package_name": "com.ubay.achmadirjikubay_1202154184_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141262168222-kf23ls4sskq7h1tnci8ubf9uq0qlf0i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubay.achmadirjikubay_1202154184_modul6",
+            "certificate_hash": "93cefb690224a618b15fdbb302e4b7d67fd8fdc4"
+          }
+        },
+        {
+          "client_id": "141262168222-trov5vmgcrr7osjjklq82jhch71euc5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMZz3TQmKyYrHavNEPTLDtVWkpXPA7iY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141262168222-trov5vmgcrr7osjjklq82jhch71euc5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
